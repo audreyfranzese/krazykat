@@ -1,0 +1,7 @@
+.flexBoxContainer {
+  height: 75px;
+  display=flex;
+  background: pink;
+  justify-content: center;
+  align-items: center;
+}
